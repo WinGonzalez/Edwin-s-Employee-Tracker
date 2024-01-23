@@ -1,0 +1,19 @@
+{
+  "name": "edwin12-employee-tracker",
+  "version": "1.0.0",
+  "description": "Challenge 12 UT Full-Stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WinGonzalez/Edwin-s-Employee-Tracker"
+  },
+  "license": "ISC",
+  "homepage":"https://github.com/WinGonzalez/Edwin-s-Employee-Tracker/blob/main/README.md" ,
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.6.5"
+  }
+}
